@@ -1,0 +1,5 @@
+Summary,Issue Type,Application,Module,Description,Platform,Version,Environment,Steps to Reproduce,Expected Result,Actual Result,Severity,Priority,Labels
+Today' quick date-filter sends an empty date range,Bug,Trackofy,Dashboard,Selecting the Today quick filter on a dashboard card issues the underlying API request with empty from_date/to_date parameters instead of today's date.,Web,V6.2,Staging,"1. Log in and open Dashboard (/home). 
+2. Open any KPI/card date filter. 
+3. Select the 'Today' quick filter. 
+4. Inspect the API request payload.",The API request should carry today's actual date as from_date/to_date and the card should show only today's data.,The request is sent with empty from_date/to_date parameters; the card shows unfiltered (all-time) data instead of today's.,High,Medium,dashboard date-filter api functional Trackofy
