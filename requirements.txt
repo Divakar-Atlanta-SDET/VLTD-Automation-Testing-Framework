@@ -1,0 +1,9 @@
+pytest
+pytest-playwright
+playwright
+pytest-xdist
+python-dotenv
+PyYAML
+requests
+openpyxl
+axe-core-python

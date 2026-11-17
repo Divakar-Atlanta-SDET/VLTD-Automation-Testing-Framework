@@ -1,0 +1,46 @@
+{
+  "staff-list": [],
+  "staff-form": [
+    {
+      "rule": "button-name",
+      "impact": "critical",
+      "help": "Buttons must have discernible text",
+      "nodes": 2,
+      "target": "div[data-v-2bc9fac2=\"\"]:nth-child(1) > div[data-v-2bc9fac2=\"\"] > .relative[data-v-2bc9fac2=\"\"] > .inset-y-0.right-2.hover\\:text-\\(--color-text\\)"
+    }
+  ],
+  "oem-list": [],
+  "oem-form": [
+    {
+      "rule": "button-name",
+      "impact": "critical",
+      "help": "Buttons must have discernible text",
+      "nodes": 2,
+      "target": "div[data-v-2bc9fac2=\"\"]:nth-child(4) > div[data-v-2bc9fac2=\"\"] > .relative[data-v-2bc9fac2=\"\"] > .inset-y-0.right-2.hover\\:text-\\(--color-text\\)"
+    }
+  ],
+  "rto-list": [],
+  "rto-form": [
+    {
+      "rule": "button-name",
+      "impact": "critical",
+      "help": "Buttons must have discernible text",
+      "nodes": 2,
+      "target": "div[data-v-2bc9fac2=\"\"]:nth-child(1) > div[data-v-2bc9fac2=\"\"] > .relative[data-v-2bc9fac2=\"\"] > .inset-y-0.right-2.hover\\:text-\\(--color-text\\)"
+    }
+  ],
+  "inspector-list": [],
+  "inspector-modal": [],
+  "driver-list": [],
+  "driver-modal": [
+    {
+      "rule": "button-name",
+      "impact": "critical",
+      "help": "Buttons must have discernible text",
+      "nodes": 2,
+      "target": ".sm\\:grid-cols-2 > div:nth-child(1) > div[data-v-2bc9fac2=\"\"] > div[data-v-2bc9fac2=\"\"] > .relative[data-v-2bc9fac2=\"\"] > .inset-y-0.right-2.hover\\:text-\\(--color-text\\)"
+    }
+  ],
+  "fc-list": [],
+  "permit-holders-list": []
+}

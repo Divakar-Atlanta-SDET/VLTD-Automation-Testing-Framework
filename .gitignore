@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+reports/*
+logs/*
+artifacts/
+.vscode/
+.idea/
+jira bulk upload*
+regression-logs/*
+practice.ipynb
+ReceivedData*
+new_vehicle_registration*

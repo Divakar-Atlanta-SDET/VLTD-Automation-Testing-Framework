@@ -1,0 +1,628 @@
+{
+  "ownership-transfers": {
+    "path": "/tc/reports/ownership-transfers",
+    "heading": "Ownership Transfer Report",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Back",
+      "Clear filters",
+      "Refresh",
+      "Export Excel"
+    ],
+    "headers": [
+      "#",
+      "TRANSFERRED ON",
+      "VEHICLE",
+      "FROM OWNER",
+      "TO OWNER",
+      "TYPE / REASON",
+      "REMOVED FROM",
+      "BY",
+      "STATUS",
+      "CERTIFICATE"
+    ],
+    "has_export": true,
+    "date_inputs": 2,
+    "axe": [
+      [
+        "label",
+        "critical",
+        2
+      ]
+    ]
+  },
+  "account-merges": {
+    "path": "/tc/reports/account-merges",
+    "heading": "Account Merge Report",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Back",
+      "Clear filters",
+      "Refresh",
+      "Export Excel",
+      "View",
+      "View"
+    ],
+    "headers": [
+      "",
+      "MERGE",
+      "SOURCE ACCOUNT (CLOSED)",
+      "DESTINATION ACCOUNT",
+      "VEHICLES",
+      "REASON",
+      "BY",
+      "STATUS",
+      "DOCUMENT"
+    ],
+    "has_export": true,
+    "date_inputs": 2,
+    "axe": [
+      [
+        "label",
+        "critical",
+        2
+      ]
+    ]
+  },
+  "device-packets": {
+    "path": "/tc/reports/device-packets",
+    "heading": "Device Packets",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Stored packets",
+      "Raw packets",
+      "Rejected packets",
+      "12 Nov 2026",
+      "12 Nov 2026",
+      "Search",
+      "Reset",
+      "Last hour",
+      "Today",
+      "Yesterday",
+      "Last 7 days",
+      "863070045317640",
+      "863070045315495",
+      "865820071128982",
+      "863070045315495",
+      "863070045317756",
+      "863070045315362",
+      "863070045317640",
+      "863070045317863",
+      "863070045315164",
+      "863070045315495",
+      "863070045317111",
+      "863070045305843",
+      "863070045317640",
+      "863070045317756",
+      "863070045315362",
+      "863070045315495",
+      "863070045305843",
+      "863070045317640",
+      "863070045315495",
+      "863070045315362",
+      "863070045317756",
+      "863070045315495",
+      "863070045317640",
+      "863070045305843",
+      "863070045306239",
+      "863070045306619",
+      "863070045315362",
+      "863070045315495",
+      "863070045317756",
+      "863070045317640",
+      "863070045318341",
+      "863070045305843",
+      "863070045315362",
+      "865820071128982",
+      "863070045306619",
+      "863070045317640",
+      "863070045305843",
+      "863070045315362",
+      "863070045317756",
+      "863070045317640",
+      "863070045315495",
+      "863070045306619",
+      "863070045305843",
+      "863070045317640",
+      "863070045317756",
+      "865820071887512",
+      "863070045305843",
+      "863070045315495",
+      "863070045306619",
+      "863070045315362",
+      "Previous",
+      "Next"
+    ],
+    "headers": [
+      "#",
+      "RECEIVED (IST)",
+      "GPS TIME (IST)",
+      "IMEI",
+      "VEHICLE",
+      "TYPE",
+      "ALERT",
+      "GPS",
+      "LATITUDE",
+      "LONGITUDE",
+      "SPEED (KM/H)",
+      "HEADING",
+      "SATS",
+      "HDOP",
+      "IGNITION",
+      "BATTERY (V)",
+      "SUPPLY (V)",
+      "NETWORK",
+      "FIRMWARE",
+      "IP"
+    ],
+    "has_export": false,
+    "date_inputs": 0,
+    "axe": [
+      [
+        "nested-interactive",
+        "serious",
+        2
+      ]
+    ]
+  },
+  "device-status": {
+    "path": "/tc/reports/device-status",
+    "heading": "Device Status & Connectivity",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Back",
+      "Online Now\n\n3",
+      "Active\n\n15",
+      "Inactive\n\n7",
+      "Never Sending\n\n1",
+      "Not Sending 7+ Days\n\n6",
+      "Recently Offline\n\n6",
+      "Intermittent\n\n8",
+      "Not Installed\n\n28",
+      "Reset filters",
+      "Refresh",
+      "Export Excel"
+    ],
+    "headers": [
+      "OEM",
+      "TOTAL",
+      "ONLINE NOW",
+      "ACTIVE",
+      "INACTIVE",
+      "NEVER SENDING",
+      "NOT SENDING X DAYS",
+      "RECENTLY OFFLINE",
+      "INTERMITTENT",
+      "#",
+      "DEVICE (IMEI)",
+      "VEHICLE",
+      "OWNER / SCHOOL",
+      "OEM",
+      "DEVICE MODEL",
+      "FITMENT CENTRE",
+      "RTO",
+      "DISTRICT / STATE",
+      "INSTALLATION",
+      "NETWORK / FIRMWARE",
+      "LAST SEEN (IST)",
+      "OFFLINE FOR",
+      "ACTIVE DAYS",
+      "STATUS"
+    ],
+    "has_export": true,
+    "date_inputs": 0,
+    "axe": []
+  },
+  "device-health": {
+    "path": "/tc/reports/device-health",
+    "heading": "Device Health Report",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Back",
+      "Healthy\n\n0",
+      "Needs Review\n\n3",
+      "Tamper (24h)\n\n0",
+      "Offline\n\n20",
+      "Low Battery\n\n21",
+      "Poor GPS Fix\n\n2",
+      "GPS Jumping (7d)\n\n10",
+      "Clear filters",
+      "Refresh",
+      "Export Excel"
+    ],
+    "headers": [
+      "#",
+      "DEVICE (IMEI)",
+      "VEHICLE",
+      "RTO",
+      "FITMENT CENTRE",
+      "OEM",
+      "DEVICE MODEL",
+      "FIRMWARE",
+      "BATTERY",
+      "SUPPLY",
+      "GPS FIX",
+      "GPS ISSUES (7D)",
+      "LOCATION",
+      "IGNITION",
+      "SPEED",
+      "NETWORK",
+      "LAST ALERT",
+      "LAST SEEN (IST)",
+      "CONDITION",
+      "STATUS"
+    ],
+    "has_export": true,
+    "date_inputs": 2,
+    "axe": [
+      [
+        "label",
+        "critical",
+        2
+      ]
+    ]
+  },
+  "device-validity": {
+    "path": "/tc/reports/device-validity",
+    "heading": "Device SIM Validity Report",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Back",
+      "Refresh",
+      "Reset",
+      "Apply Filters",
+      "1",
+      "2",
+      "3"
+    ],
+    "headers": [
+      "VEHICLE",
+      "DEVICE",
+      "SIM",
+      "SIM STATUS",
+      "VALIDITY",
+      "VALID TILL",
+      "INSTALLED"
+    ],
+    "has_export": false,
+    "date_inputs": 0,
+    "axe": []
+  },
+  "user-devices": {
+    "path": "/tc/reports/user-devices",
+    "heading": "User Devices Report",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Back",
+      "Refresh",
+      "Reset",
+      "User",
+      "1",
+      "2",
+      "3",
+      "27"
+    ],
+    "headers": [
+      "User",
+      "TYPE",
+      "CODE / PROFILE",
+      "ACCOUNT STATUS",
+      "INSTALLED DEVICES",
+      "ACTIVE / INACTIVE",
+      "ACTIONS"
+    ],
+    "has_export": false,
+    "date_inputs": 0,
+    "axe": []
+  },
+  "alerts": {
+    "path": "/tc/reports/alerts",
+    "heading": "Alert Report",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "All alerts",
+      "SOS / Panic",
+      "Tamper",
+      "Overspeed",
+      "Geofence & Route",
+      "Power & Battery",
+      "All",
+      "Pending",
+      "Cleared",
+      "Reset filters",
+      "Refresh",
+      "Export Excel",
+      "Details",
+      "Details",
+      "Details",
+      "Details",
+      "Details"
+    ],
+    "headers": [
+      "#",
+      "VEHICLE",
+      "ALERT",
+      "OWNER / SCHOOL",
+      "RTO / FITMENT CENTRE",
+      "OCCURRED (IST)",
+      "DEVICE AT ALERT",
+      "STATUS",
+      "CLEARED",
+      "COMMENT",
+      "ACTIONS"
+    ],
+    "has_export": true,
+    "date_inputs": 2,
+    "axe": [
+      [
+        "label",
+        "critical",
+        2
+      ]
+    ]
+  },
+  "vehicle-alert-trail": {
+    "path": "/tc/reports/vehicle-alert-trail",
+    "heading": "Vehicle Alert Trail",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Back",
+      "Refresh"
+    ],
+    "headers": [
+      "#",
+      "TYPE",
+      "STATUS",
+      "LOCATION",
+      "OCCURRED AT (IST)",
+      "ACKNOWLEDGED",
+      "RESOLVED",
+      "MESSAGE / COMMENT",
+      "DETAILS"
+    ],
+    "has_export": false,
+    "date_inputs": 2,
+    "axe": [
+      [
+        "label",
+        "critical",
+        2
+      ]
+    ]
+  },
+  "multiple-challan-vehicles": {
+    "path": "/tc/reports/multiple-challan-vehicles",
+    "heading": "Multiple-Challan Vehicles",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Refresh",
+      "Select date",
+      "Select date",
+      "Apply",
+      "1"
+    ],
+    "headers": [
+      "VEHICLE",
+      "COUNT",
+      "STATUS BREAKDOWN",
+      "CONFIGURED PENALTIES",
+      "FIRST CHALLAN",
+      "LAST CHALLAN"
+    ],
+    "has_export": false,
+    "date_inputs": 0,
+    "axe": [
+      [
+        "button-name",
+        "critical",
+        1
+      ],
+      [
+        "label",
+        "critical",
+        1
+      ]
+    ]
+  },
+  "vehicle-activity": {
+    "path": "/tc/reports/vehicle-activity",
+    "heading": "Fleet Activity",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Back",
+      "Today",
+      "Last 24 hours",
+      "Last 7 days",
+      "Last 30 days",
+      "Custom",
+      "Reset filters",
+      "Refresh",
+      "Export Excel",
+      "1",
+      "2"
+    ],
+    "headers": [
+      "#",
+      "VEHICLE",
+      "LIVE STATUS",
+      "LAST SEEN",
+      "DRIVER",
+      "DISTANCE",
+      "DRIVING TIME",
+      "TRIPS",
+      "ALERTS"
+    ],
+    "has_export": true,
+    "date_inputs": 0,
+    "axe": []
+  },
+  "oem-performance": {
+    "path": "/tc/reports/oem-performance",
+    "heading": "Installation Performance",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Back",
+      "OEM-wise",
+      "Fitment Centre-wise",
+      "Clear filters",
+      "Refresh"
+    ],
+    "headers": [
+      "#",
+      "OEM",
+      "TOTAL",
+      "SUCCESSFUL",
+      "PENDING",
+      "REJECTED",
+      "FAILED",
+      "SUCCESS %"
+    ],
+    "has_export": false,
+    "date_inputs": 2,
+    "axe": [
+      [
+        "label",
+        "critical",
+        2
+      ]
+    ]
+  },
+  "installation-status": {
+    "path": "/tc/reports/installation-status",
+    "heading": "Installation Report",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Back",
+      "Refresh"
+    ],
+    "headers": [
+      "#",
+      "VEHICLE",
+      "IMEI",
+      "OEM",
+      "FITMENT CENTRE",
+      "FLEET OWNER / SCHOOL",
+      "DEVICE MODEL",
+      "FIRMWARE",
+      "INSTALLATION",
+      "ACTIVATION",
+      "PANIC TEST",
+      "VAHAN SYNC",
+      "INSTALLED ON"
+    ],
+    "has_export": false,
+    "date_inputs": 2,
+    "axe": [
+      [
+        "label",
+        "critical",
+        2
+      ],
+      [
+        "scrollable-region-focusable",
+        "moderate",
+        1
+      ]
+    ]
+  },
+  "maintenance": {
+    "path": "/tc/reports/maintenance",
+    "heading": "Repair & Replacement History",
+    "buttons": [
+      "Control & Operations",
+      "Administration",
+      "Reports",
+      "A\u2212",
+      "A+",
+      "D\nDelhi Transport Department\nTransport Commissioner",
+      "Back",
+      "Refresh"
+    ],
+    "headers": [
+      "#",
+      "VEHICLE",
+      "IMEI",
+      "OEM",
+      "FITMENT CENTRE",
+      "FLEET OWNER / SCHOOL",
+      "LATEST ACTION",
+      "REMARKS",
+      "UPDATED BY",
+      "UPDATED AT"
+    ],
+    "has_export": false,
+    "date_inputs": 2,
+    "axe": [
+      [
+        "label",
+        "critical",
+        2
+      ]
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "had_packet": [
+    {
+      "imei": "863070045305140",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:23.405425+00"
+    },
+    {
+      "imei": "863070045306171",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:45:44.087363+00"
+    },
+    {
+      "imei": "863070045306189",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:42:56.727375+00"
+    },
+    {
+      "imei": "863070045306239",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:15.418653+00"
+    },
+    {
+      "imei": "863070045306619",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:38.693715+00"
+    },
+    {
+      "imei": "863070045307450",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:18.646915+00"
+    },
+    {
+      "imei": "863070045307500",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:45:21.145799+00"
+    },
+    {
+      "imei": "863070045307567",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:37.757784+00"
+    },
+    {
+      "imei": "863070045307732",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:37.050166+00"
+    },
+    {
+      "imei": "863070045307930",
+      "passed": false,
+      "failed_checks": [
+        "External Power",
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:25.204657+00"
+    },
+    {
+      "imei": "863070045315164",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:41:15.612282+00"
+    },
+    {
+      "imei": "863070045315362",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:43:10.780618+00"
+    },
+    {
+      "imei": "863070045315453",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:29.704596+00"
+    },
+    {
+      "imei": "863070045315495",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:23.776789+00"
+    },
+    {
+      "imei": "863070045317863",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:44:26.595972+00"
+    },
+    {
+      "imei": "863070045318341",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:29.697041+00"
+    },
+    {
+      "imei": "863070045318416",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:34.798974+00"
+    },
+    {
+      "imei": "863070045332359",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:42.445361+00"
+    },
+    {
+      "imei": "863070045332425",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:36.554185+00"
+    },
+    {
+      "imei": "863070047137343",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:47:48.739613+00"
+    },
+    {
+      "imei": "863070047227045",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:49:23.662632+00"
+    },
+    {
+      "imei": "863070047548291",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:48:27.386716+00"
+    },
+    {
+      "imei": "863070048067770",
+      "passed": false,
+      "failed_checks": [
+        "GPS Status",
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:51:19.817759+00"
+    },
+    {
+      "imei": "865820071128982",
+      "passed": false,
+      "failed_checks": [
+        "GPS Status",
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:53:21.685331+00"
+    },
+    {
+      "imei": "865820071887512",
+      "passed": false,
+      "failed_checks": [
+        "Tamper Status"
+      ],
+      "last_packet_at": "2026-11-04 10:54:06.002969+00"
+    }
+  ],
+  "full_pass": [],
+  "scanned": 4777
+}

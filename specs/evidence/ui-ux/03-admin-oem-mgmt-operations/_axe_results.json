@@ -1,0 +1,66 @@
+{
+  "pis-timetables": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "pis-stops": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "pis-routes": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "pis-service-calendars": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "pis-service-patterns": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "pis-trips": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "untag": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "ownership-transfer": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "account-merge": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "device-models-list": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "device-models-add-form": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "firmware-list": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "firmware-add-form": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "sim-modules-list": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "sim-modules-add-form": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  },
+  "device-models-edit-form": {
+    "summary": "axe-core: no violations",
+    "violations": []
+  }
+}
